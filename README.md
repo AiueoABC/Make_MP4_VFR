@@ -1,5 +1,5 @@
 # Make_MP4_VFR
-To make a constant frame rate MP4 video into a variable frame rate.   
+To make a constant frame rate MP4 video into a variable frame rate using Python.   
 # What type of video is available?
 Currently, this script is designed for a video generated from OpenCV-Python libraly.  So, you need some modification to use it for other MP4.
 # How to use?
@@ -29,6 +29,9 @@ Finally, you can run this script! Run `python EditMP4.py`, you will get result!
 
 # Tested situation
 I used `https://github.com/AiueoABC/CompressedVideoGenerationExample` to generate video for this.
+
+# Comments are welcome
+Please open issue to let me know about any comments, suggests, and requests.
 
 # To make it better...
 I need your support, pls feed me to make me motivated.  
