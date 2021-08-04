@@ -29,3 +29,8 @@ Finally, you can run this script! Run `python EditMP4.py`, you will get result!
 
 # Tested situation
 I used `https://github.com/AiueoABC/CompressedVideoGenerationExample` to generate video for this.
+
+# To make it better...
+I need your support, pls feed me to make me motivated.  
+Here is a link to give me a coffe;  
+<a href="https://www.buymeacoffee.com/aiueoabc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
