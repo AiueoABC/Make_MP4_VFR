@@ -1,7 +1,7 @@
 # Make_MP4_VFR
 To make a constant frame rate MP4 video into a variable frame rate using Python.   
 # What type of video is available?
-Currently, this script is designed for a video generated from OpenCV-Python libraly.  So, you need some modification to use it for other MP4.
+Currently, this script is designed for a video generated from OpenCV-Python libraly.  So, you need some modification to use it for other MP4. (If I notice this is useful for others too, I will try to modify this.)
 # How to use?
 At first, you need to prepare `timecodes.txt`, which has time-stamp data for each frame in timecodes_v2 format.  
 Here is an example;  
